@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
-  "apkUrl": "https://github.com/mustafaalfahd-max/muqawili-releases/releases/download/v1.1.0/muqawili-1.1.0.apk",
-  "notes": "• المصاريف المصنّفة (مواد/أجور/فرعي/عام)\n• احتساب تلقائي لأجر العامل اليومي\n• إضافة الأطراف مباشرة من نموذج المصروف\n• قائمة سريعة عند زر (+)"
+  "version": "1.2.0",
+  "apkUrl": "https://github.com/mustafaalfahd-max/muqawili-releases/releases/download/v1.2.0/muqawili-1.2.0.apk",
+  "notes": "• فواصل المراتب أثناء كتابة المبالغ\n• دعم الأرقام العربية\n• زر «كشف الحساب» أوضح\n• تحسين فحص التحديثات"
 }

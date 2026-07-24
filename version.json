@@ -1,5 +1,5 @@
 {
-  "version": "1.2.0",
-  "apkUrl": "https://github.com/mustafaalfahd-max/muqawili-releases/releases/download/v1.2.0/muqawili-1.2.0.apk",
-  "notes": "• فواصل المراتب أثناء كتابة المبالغ\n• دعم الأرقام العربية\n• زر «كشف الحساب» أوضح\n• تحسين فحص التحديثات"
+  "version": "1.2.1",
+  "apkUrl": "https://github.com/mustafaalfahd-max/muqawili-releases/releases/download/v1.2.1/muqawili-1.2.1.apk",
+  "notes": "• إشعار التحديث يظهر تلقائياً عند فتح التطبيق\n• فواصل المراتب أثناء كتابة المبالغ\n• دعم الأرقام العربية\n• زر «كشف الحساب» أوضح"
 }

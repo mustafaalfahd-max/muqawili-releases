@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
-  "apkUrl": "https://github.com/mustafaalfahd-max/muqawili-releases/releases/download/v1.0.0/muqawili-1.0.0.apk",
-  "notes": "• الإصدار الأول من مقاولي\n• إدارة المشاريع والربحية\n• الحسابات والسندات وكشوفات PDF"
+  "version": "1.1.0",
+  "apkUrl": "https://github.com/mustafaalfahd-max/muqawili-releases/releases/download/v1.1.0/muqawili-1.1.0.apk",
+  "notes": "• المصاريف المصنّفة (مواد/أجور/فرعي/عام)\n• احتساب تلقائي لأجر العامل اليومي\n• إضافة الأطراف مباشرة من نموذج المصروف\n• قائمة سريعة عند زر (+)"
 }

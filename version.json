@@ -1,5 +1,5 @@
 {
-  "version": "1.3.1",
-  "apkUrl": "https://github.com/mustafaalfahd-max/muqawili-releases/releases/download/v1.3.1/muqawili-1.3.1.apk",
-  "notes": "• إصلاح: فحص التحديثات لم يكن يعمل في نسخة release (إذن الإنترنت)\n• سند القبض/الصرف من سجل السندات"
+  "version": "1.3.2",
+  "apkUrl": "https://github.com/mustafaalfahd-max/muqawili-releases/releases/download/v1.3.2/muqawili-1.3.2.apk",
+  "notes": "🧪 تحديث تجريبي للتأكد من عمل نظام التحديثات التلقائي.\nإن رأيت هذا الإشعار فالنظام يعمل بنجاح ✅"
 }
